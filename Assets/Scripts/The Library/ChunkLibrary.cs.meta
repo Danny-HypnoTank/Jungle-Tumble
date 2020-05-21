@@ -1,0 +1,42 @@
+fileFormatVersion: 2
+guid: a5ee1fd6b61d1514da04b292c585db99
+timeCreated: 1492952456
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - tutorial: {fileID: 114108347390780286, guid: a848ad5b91d089c4ebc14de7acbbcb21,
+      type: 2}
+  - genericChunk: {fileID: 114982495518895406, guid: ece1b17ab8c08c7488b9b598df6ec006,
+      type: 2}
+  - genericShort: {fileID: 114177635496742632, guid: 808eae890e6c6a94bb4d84b66684969d,
+      type: 2}
+  - potHoleMix: {fileID: 114597962796570428, guid: 8c8c6fdd28427d74f8243e6a10c7d873,
+      type: 2}
+  - potHolePit: {fileID: 114973530820159216, guid: 746cd7a57ae2a724bb1ffd212fa2e294,
+      type: 2}
+  - potHoleObs: {fileID: 114942927618125842, guid: 9adc441955a45ac469bc7b266c2532ab,
+      type: 2}
+  - potHoleTall: {fileID: 114597962796570428, guid: e02d909d738ed7f4c908d2122cab6cda,
+      type: 2}
+  - potHoleHard: {fileID: 114597962796570428, guid: 0e8c293cd4b6b864089add6081b660fb,
+      type: 2}
+  - zebra: {fileID: 114024215664494238, guid: 6d7879c1f2b86a043aa05635244a4d27, type: 2}
+  - zebraShort: {fileID: 114637587852949412, guid: eda69aaeeb9397a4ca91dbac52c8daa9,
+      type: 2}
+  - zebraWide: {fileID: 114882897418230340, guid: 8c2b5370a6b156e4493219740dcdbff0,
+      type: 2}
+  - zebraLong: {fileID: 114049333037844212, guid: 47a8fda67aeb2494d83a4c0fc4cf6ab2,
+      type: 2}
+  - zebraHard: {fileID: 114717542296389938, guid: c5adb178f2586cf458c502e8df047954,
+      type: 2}
+  - mon: {fileID: 114283176054788420, guid: 63313303838af8149af1ffabdb68fead, type: 2}
+  - monEasy: {fileID: 114731567986717052, guid: 1a032372ba33bef4cb9dfaa9802903a5,
+      type: 2}
+  - monLong: {fileID: 114425001589744618, guid: dfd45d9585d477e47b80d41e545fda2e,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

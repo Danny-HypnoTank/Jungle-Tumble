@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a5a1fa977e6d637458b17692e99ac4d0
+timeCreated: 1493503281
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Generic: {fileID: 114093419939712888, guid: 466897db5dac76846a37f75281bc268f,
+      type: 2}
+  - Vase: {fileID: 114188223294311492, guid: ddbd9b7e761b3e548a5c74db48da5533, type: 2}
+  - Gappy: {fileID: 114808886583080484, guid: 023397e18d4f0f14a9a658c1cf7a07d2, type: 2}
+  - Hatty: {fileID: 114613385754711896, guid: 12d25ba58c0308543bf9345933fe6752, type: 2}
+  - Lanky: {fileID: 114713877626519224, guid: e753a1cac6fd3a941a92c0f622a5c8ec, type: 2}
+  - Sleepy: {fileID: 114555902566249194, guid: 20519aa8aa2607f4eb46f0193f792da7, type: 2}
+  - Smashy: {fileID: 114756793332252094, guid: 2e0312059201fd64998b6b14dfedcb08, type: 2}
+  - Twisty: {fileID: 114371864168479888, guid: 80ef405fc5880644eb097a30e020ed63, type: 2}
+  - Winky: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

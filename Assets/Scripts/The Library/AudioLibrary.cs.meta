@@ -1,0 +1,32 @@
+fileFormatVersion: 2
+guid: 8bf6f390945b5d54babbb16c3c31bf5a
+timeCreated: 1493682834
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - menuBGM: {fileID: 8300000, guid: 6058932761f7b1a43ad418af708130c2, type: 3}
+  - gameBGM: {fileID: 8300000, guid: 70f10a85b5d99e043bfa506df6c2a7d5, type: 3}
+  - loadBGM: {instanceID: 0}
+  - genericSFX: {instanceID: 0}
+  - buttonYesSFX: {fileID: 8300000, guid: 1e8e97208c64ecd4fbed2ebee2a408bd, type: 3}
+  - buttonNoSFX: {fileID: 8300000, guid: d087f4c39522dd34ea46b119a4f7b0f4, type: 3}
+  - pauseSFX: {fileID: 8300000, guid: 03a7b0b3893f7da4499cc08ea998fdfa, type: 3}
+  - unpauseSFX: {fileID: 8300000, guid: d087f4c39522dd34ea46b119a4f7b0f4, type: 3}
+  - jumpSFX: {fileID: 8300000, guid: 9262e6506b5356d469e5779a82b7caf1, type: 3}
+  - landSFX: {fileID: 8300000, guid: fa6a6cfeb71b54f4ca6dbfd20cf2790e, type: 3}
+  - moveSFX: {instanceID: 0}
+  - slideSFX: {fileID: 8300000, guid: d4b2226773ac7e041a8e3434b3bd1891, type: 3}
+  - artefactSFX: {fileID: 8300000, guid: ca3886c0ff72a5745a95bf58dbd23423, type: 3}
+  - rewardSFX: {fileID: 8300000, guid: 8e76a84d20ee2da4a8ff86a3009840f1, type: 3}
+  - bigRewardSFX: {fileID: 8300000, guid: 4a9764c237adaae498271e58a0c88da8, type: 3}
+  - damageSFX: {fileID: 8300000, guid: bf72fec06a5ab0f48adfce44ef610b8f, type: 3}
+  - crackSFX: {fileID: 8300000, guid: 49ecd888acf217e4d99a7f8412ed0332, type: 3}
+  - smashSFX: {fileID: 8300000, guid: 84540a900af8c3d45b418ddac09ee85a, type: 3}
+  - twistSFX: {instanceID: 0}
+  - gameOverSFX: {fileID: 8300000, guid: 8162f4e8fe66bed48b733bc7b187eaa1, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
